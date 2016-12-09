@@ -2,7 +2,7 @@
 
 Roast Coffee House is a web design project that I completed as part of the Skillcrush Visual Designer Blueprint. After 
 completing the design, I continued by developing the site. This was the first site that I developed using Flexbox and Parallax
-scrolling. [Here it is!](https://htmlpreview.github.io/?https://github.com/skiddhubbard/roast-coffee-house/blob/master/index.html#locations-link)
+scrolling. [Here it is!](https://htmlpreview.github.io/?https://github.com/skiddhubbard/roast-coffee-house/blob/master/index.html)
 
 Talent Credit:
 
