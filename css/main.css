@@ -418,6 +418,7 @@ footer p {
   .landing {
     background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center center fixed;
     background-size: fill;
+  }
    
   nav {
     width: 40%;
