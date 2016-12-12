@@ -132,7 +132,7 @@ nav li {
   list-style: none;
   color: white;
   font-family: 'Catamaran', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;
@@ -145,7 +145,7 @@ nav li {
 .landing {
   height: 100vh;
   max-width: 750px;
-  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat;
+  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center;
   background-size: cover;
   display: -webkit-box;
   display: -moz-box;
@@ -413,9 +413,8 @@ footer p {
 
 @media screen and (min-width: 1025px) {
 
-   .landing {
-  height: 100vh;
-  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center center fixed;
+  .landing {
+    background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center center fixed;
    
   nav {
     width: 40%;
