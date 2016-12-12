@@ -145,8 +145,8 @@ nav li {
 .landing {
   height: 100vh;
   max-width: 750px;
-  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center center fixed;
-  background-size: contain;
+  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat;
+  background-size: cover;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -411,8 +411,12 @@ footer p {
 
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1025px) {
 
+   .landing {
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url(../img/landing-image-2.jpg) no-repeat center center fixed;
+   
   nav {
     width: 40%;
   }
