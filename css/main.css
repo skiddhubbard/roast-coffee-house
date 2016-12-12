@@ -185,8 +185,6 @@ nav ul {
 .logo-image {
   object-fit: scale-down;
   width: 280px;
-  position: absolute;
-  top: 40%;
 }
 
 .about {
