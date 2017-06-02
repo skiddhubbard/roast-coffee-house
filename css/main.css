@@ -118,6 +118,10 @@ p {
   text-align: center;
 }
 
+p span {
+  font-size: 10px;
+}
+
 a {
   text-decoration: none;
   color: white;
